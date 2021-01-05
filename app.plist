@@ -11,13 +11,13 @@
                     <key>kind</key>
                      <string>software-package</string>
                     <key>url</key>
-                    <string>https://jzyypad.dxzq.net:443/app/download/app.ipa</string>
+                    <string>https://github.com/apexsoftcn/myipa/raw/master/app.ipa</string>
                 </dict>
                  <dict>
                     <key>kind</key>
                      <string>full-size-image</string>
                      <key>url</key>
-                    <string>https://github.com/xiaoxinyougui/ipa/raw/master/57.png</string>
+                    <string>https://github.com/apexsoftcn/myipa/raw/master/512*512.png</string>
                     <key>needs-shine</key>
                     <false/>
                      <key>url</key>
@@ -27,7 +27,7 @@
                      <key>kind</key>
                      <string>display-image</string>
                      <key>url</key>
-                    <string>https://github.com/xiaoxinyougui/ipa/raw/master/57.png</string>
+                    <string>https://github.com/apexsoftcn/myipa/raw/master/57*57.png</string>
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
